@@ -8,7 +8,9 @@
         "sch-group/pickpoint": "^4.2",
         "hybridauth/hybridauth": "^3.8",
         "yandex-market/yandex-market-php-partner": "^2.4",
-        "stripe/stripe-php": "^9.6"
+        "stripe/stripe-php": "^9.6",
+        "tecnickcom/tcpdf": "^6.5",
+        "symfony/mailer": "^6.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
